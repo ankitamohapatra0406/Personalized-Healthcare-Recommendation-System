@@ -1,4 +1,4 @@
-# 🩺 Personalized Healthcare Recommendation System
+# 🩺 Personalized Healthcare Recommendation System 
 An ML-based healthcare recommendation system that predicts diseases based on user-reported symptoms and provides corresponding medicine recommendations.
 This project demonstrates a complete end-to-end machine learning pipeline — from data preprocessing to model deployment with a web interface. 
 
