@@ -8,7 +8,7 @@ This project demonstrates a complete end-to-end machine learning pipeline — fr
 - Text preprocessing using NLP techniques
 - Interactive web interface built with Streamlit
 - Modular and scalable project structure
-- Version-controlled with Git and GitHub
+- Version-controlled with Git and GitHub 
 
 ## 🧠Tech Stack
 - Programming Language: Python
