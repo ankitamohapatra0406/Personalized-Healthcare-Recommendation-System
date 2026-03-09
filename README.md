@@ -3,7 +3,7 @@ An ML-based healthcare recommendation system that predicts diseases based on use
 This project demonstrates a complete end-to-end machine learning pipeline — from data preprocessing to model deployment with a web interface. 
 
 
-## 🚀Features
+## 🚀Features 
 - Symptom-based disease prediction using Machine Learning
 - Personalized medicine recommendation
 - Text preprocessing using NLP techniques
